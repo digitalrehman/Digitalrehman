@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalrehman&label=Profile%20views&color=0e75b6&style=flat" alt="digitalrehman" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rehmanarainoffical" target="blank"><img src="https://img.shields.io/twitter/follow/rehmanarainoffical?logo=twitter&style=for-the-badge" alt="rehmanarainoffical" /></a> </p>
+<p align="left"> <a href="QUOTESCHANGELI" target="blank"><img src="https://img.shields.io/twitter/follow/QUOTESCHANGELI?logo=twitter&style=for-the-badge" alt="rehmanarainoffical" /></a> </p>
 
 - 🌱 I’m currently learning **Other programming languages**
 
 - 👨‍💻 All of my projects are available at [rehmanarain.42web.io](rehmanarain.42web.io)
 
-- 💬 Ask me about **👨‍💻 Frontend Developer Extraordinaire 💻 Passionate about creating seamless user experiences through elegant and efficient front-end web development. With a keen eye for design and a knack for turning ideas into interactive web interfaces, I specialize in crafting engaging websites that captivate users. 🌐 My Expertise: HTML, CSS, JavaScript Responsive Web Design User Interface (UI) Development Cross-Browser Compatibility Performance Optimization Mobile-First Approach 🚀 What I Do: I turn design concepts into reality, bringing websites to life with smooth interactions and visually appealing layouts. My mission is to deliver web solutions that not only look good but also function flawlessly. 💡 Let's Collaborate: Whether you're looking to revamp your website, improve user engagement, or build a new project from the ground up, I'm here to make it happen. Let's connect to discuss how I can elevate your web presence. #FrontendDevelopment #WebDesign #UserExperience #CodeArtist Feel free to customize this description with your specific skills and experiences.**
+<h1 align="left"About Me</h1>
+👨‍💻 Frontend Developer Extraordinaire 💻 Passionate about creating seamless user experiences through elegant and efficient front-end web development. With a keen eye for design and a knack for turning ideas into interactive web interfaces, I specialize in crafting engaging websites that captivate users. 🌐 My Expertise: HTML, CSS, JavaScript Responsive Web Design User Interface (UI) Development Cross-Browser Compatibility Performance Optimization Mobile-First Approach 🚀 What I Do: I turn design concepts into reality, bringing websites to life with smooth interactions and visually appealing layouts. My mission is to deliver web solutions that not only look good but also function flawlessly. 💡 Let's Collaborate: Whether you're looking to revamp your website, improve user engagement, or build a new project from the ground up, I'm here to make it happen. Let's connect to discuss how I can elevate your web presence. #FrontendDevelopment #WebDesign #UserExperience #CodeArtist Feel free to customize this description with your specific skills and experiences.**
 
 - 📫 How to reach me **abdulrehmanarain1018@gmail.com**
 
@@ -17,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rehmanarainoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehmanarainoffical" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rehmanarain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehmanarain" height="30" width="40" /></a>
+<a href="https://twitter.com/QUOTESCHANGELI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="QUOTESCHANGELI" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rehman-arain-4772ab264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehmanarain" height="30" width="40" /></a>
 <a href="https://instagram.com/rehmanarainoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rehmanarainoffical" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@gtafunoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gtafunoffical" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@GtaFunOffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@GtaFunOffical" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
