@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Other programming languages**
 
-- 👨‍💻 All of my projects are available at [rehmanarain.42web.io](rehmanarain.42web.io)
+- 👨‍💻 All of my projects are available at [rehmanarain.42web.io](https://drehmanportfolio.netlify.app/)
 
 <h1 align="left">About Me 👨‍💻 </h1>
 
