@@ -1,6 +1,9 @@
 <h1 align="center">
-  Hi, I'm <span style="color: #ff7e67;">Abdul</span> <span style="color: #6c5ce7;">Rehman</span>
+  Hi, I'm <span style="background: linear-gradient(to right, #ff7e67, #6c5ce7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Abdul Rehman</span>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/Z9WQLSrsQKH2U/giphy.gif" width="300" height="200">
+</div>
 <h3 align="center">A passionate Full Stack Developer specialized in App & Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalrehman&label=Profile%20views&color=0e75b6&style=flat" alt="digitalrehman" /> </p>
