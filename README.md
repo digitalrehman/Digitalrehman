@@ -5,13 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digitalrehman" alt="digitalrehman" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/rehman_digital" target="blank"><img src="https://img.shields.io/twitter/follow/rehman_digital?logo=twitter&style=for-the-badge" alt="rehman_digital" /></a> </p>
+
 - I’m currently working on [FeedBack Management](back-bgy.pages.dev)
 
 - I’m currently learning **Artificial Intelligence**
 
 - All of my projects are available at [https://drehmanportfolio.netlify.app/](https://drehmanportfolio.netlify.app/)
 
-- About Me **Ask me about Frontend & BackEnd App & Web Developer Extraordinaire 💻 Passionate about creating seamless user experiences through elegant and efficient front-end web development. With a keen eye for design and a knack for turning ideas into interactive web interfaces, I specialize in crafting engaging websites that captivate users. 🌐 My Expertise: HTML, CSS, JavaScript, React JS, Redux, Node JS, Express JS, MongoDB Responsive Web Design User Interface (UI/UX) Development Cross-Browser Compatibility Performance Optimization Mobile-First Approach 🚀 What I Do: I turn design concepts into reality, bringing websites to life with smooth interactions and visually appealing layouts. My mission is to deliver web solutions that not only look good but also function flawlessly. 💡 Let's Collaborate: Whether you're looking to revamp your website, improve user engagement, or build a new project from the ground up, I'm here to make it happen. Let's connect to discuss how I can elevate your web presence. #FrontendDevelopment #WebDesign #UserExperience #CodeArtist Feel free to customize this description with your specific skills and experiences.**
+<h1 align="left">About Me</h1>
+- About Me **Ask me about Frontend & BackEnd App & Web Developer Extraordinaire 💻 Passionate about creating seamless user experiences through elegant and efficient front-end web development. With a keen eye for design and a knack for turning ideas into interactive web interfaces, I specialize in crafting engaging websites that captivate users. 🌐 My Expertise: HTML, CSS, JavaScript, React JS, Redux, Node JS, Express JS, MongoDB, React Native, Typescript, MYSQL, SQl, Postgre SQL, Python Responsive Web Design User Interface (UI/UX) Development Cross-Browser Compatibility Performance Optimization Mobile-First Approach 🚀 What I Do: I turn design concepts into reality, bringing websites to life with smooth interactions and visually appealing layouts. My mission is to deliver web solutions that not only look good but also function flawlessly. 💡 Let's Collaborate: Whether you're looking to revamp your website, improve user engagement, or build a new project from the ground up, I'm here to make it happen. Let's connect to discuss how I can elevate your web presence. #FrontendDevelopment #WebDesign #UserExperience #CodeArtist Feel free to customize this description with your specific skills and experiences.**
 
 - How to reach me **abdulrehmanarain1018@gmail.com**
 
@@ -22,8 +25,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rehman_digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehman_digital" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rehmanarainoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehmanarainoffical" height="30" width="40" /></a>
 <a href="https://fb.com/rehmanarainofficail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehmanarainofficail" height="30" width="40" /></a>
 <a href="https://instagram.com/rehmanarainoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rehmanarainoffical" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rehmanofficail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rehmanofficail" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rehmanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehmanofficial" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/rehmanofficail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rehmanofficail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digitalrehman&show_icons=true&locale=en&layout=compact" alt="digitalrehman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalrehman&show_icons=true&locale=en" alt="digitalrehman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalrehman&" alt="digitalrehman" /></p>
