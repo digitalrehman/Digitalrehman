@@ -1,56 +1,154 @@
 <h1 align="center">
-  Hi, I'm <span style="color: #ff7e67;">Abdul</span> <span style="color: #6c5ce7;">Rehman</span>
+  👋 Hi, I'm <span style="color: #ff6b6b;">Abdul Rehman</span> 
 </h1>
-<h3 align="center">❤ A passionate Full Stack Developer specialized in App & Web Development ❤</h3>
+<h3 align="center">
+  🚀 Full Stack Developer | AI/ML Engineer | Mobile App Specialist 🚀
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalrehman&label=Profile%20views&color=0e75b6&style=flat" alt="digitalrehman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digitalrehman" alt="digitalrehman" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rehman_digital" target="blank"><img src="https://img.shields.io/twitter/follow/rehman_digital?logo=twitter&style=for-the-badge" alt="rehman_digital" /></a> </p>
-
-- I’m currently working on [FeedBack Management](back-bgy.pages.dev)
-
-- I’m currently learning **Artificial Intelligence**
-
-- All of my projects are available at [https://drehmanportfolio.netlify.app/](https://drehmanportfolio.netlify.app/)
-
-<h1 align="left">About Me</h1>
-A highly skilled MERN Stack Web & App Developer
-with 2 years of experience in building scalable,
-high-performance applications. Proficient in React,
-Node.js, Express.js, and MongoDB, with a strong
-passion for creating efficient and user-friendly web
-solutions. Adept at working in fast-paced environments
-and collaborating with teams to deliver top-tier software
-solutions
-
-- How to reach me **abdulrehmanarain1018@gmail.com**
-
-- Know about my experiences [https://drive.google.com/file/d/1DQ5_lz4lK5btFRBpm77W4bdyPlauxlM_/view?usp=drive_link](https://drive.google.com/file/d/1DQ5_lz4lK5btFRBpm77W4bdyPlauxlM_/view?usp=drive_link)
-
-- Fun fact **I think I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rehman_digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehman_digital" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rehmanarainoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehmanarainoffical" height="30" width="40" /></a>
-<a href="https://fb.com/rehmanarainofficail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehmanarainofficail" height="30" width="40" /></a>
-<a href="https://instagram.com/rehmanarainoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rehmanarainoffical" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rehmanofficail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rehmanofficail" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rehmanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehmanofficial" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/rehmanofficail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rehmanofficail" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;AI+ML+Enthusiast;Mobile+App+Developer;Problem+Solver;Continuous+Learner" />
 </p>
 
-<br>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=digitalrehman&label=Profile%20views&color=0e75b6&style=flat)
+  ![GitHub Followers](https://img.shields.io/github/followers/digitalrehman?label=Followers&style=social)
+  
+</div>
 
-# 🚀 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+<br/>
 
-<br>
+<div align="center">
+ 
+  🔭 I'm currently working on **AI-Powered Applications**
+  
+  🌱 I'm currently learning **Advanced Machine Learning & Deep Learning**
+  
+  👯 I'm looking to collaborate on **Open Source Projects**
+  
+  🤔 I'm looking for help with **Scalable System Architecture**
+  
+  💬 Ask me about **React, Node.js, Python, AI/ML, or any tech-related stuff**
+  
+  📫 How to reach me **abdulrehmanarain1018@gmail.com**
+  
+  ⚡ Fun fact **I debug with console.log() and it actually works! 😄**
+  
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digitalrehman&show_icons=true&locale=en&layout=compact" alt="digitalrehman" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalrehman&show_icons=true&locale=en" alt="digitalrehman" /></p>
+## 🛠️ My Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalrehman&" alt="digitalrehman" /></p>
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🚀 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🤖 AI/ML & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Animation & Styling
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+### ⚡ State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/digitalrehman">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=digitalrehman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalrehman&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/digitalrehman">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalrehman&theme=radical" alt="digitalrehman" />
+  </a>
+</div>
+
+## 🌟 My Projects
+
+### 🎯 Featured Projects
+- **[FeedBack Management](back-bgy.pages.dev)** - A comprehensive feedback management system
+- **More projects coming soon...**
+
+### 📂 All Projects
+Check out all my projects on my [Portfolio Website](https://drehmanportfolio.netlify.app/)
+
+## 📈 GitHub Activity Graph
+
+[![Abdul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=digitalrehman&theme=react-dark)](https://github.com/digitalrehman)
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/rehman_digital" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rehmanarainoffical" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/rehmanofficial" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/rehmanofficail" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="mailto:abdulrehmanarain1018@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+## 📜 My Resume
+
+[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1DQ5_lz4lK5btFRBpm77W4bdyPlauxlM_/view?usp=drive_link)
+
+---
+
+<div align="center">
+  
+  ### 💝 "Code is like humor. When you have to explain it, it's bad." 💝
+  
+  ⭐️ From [Abdul Rehman](https://github.com/digitalrehman)
+  
+</div>
