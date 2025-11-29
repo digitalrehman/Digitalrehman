@@ -1,18 +1,19 @@
 <h1 align="center">
   Hi, I'm <span style="color: #ff6b6b;">Abdul Rehman</span> 
 </h1>
+
 <h3 align="center">
-  Full Stack Developer | AI/ML Engineer | Mobile App Specialist | Educator
+  Full Stack Developer | AI and ML Engineer | Mobile App Specialist | Data Analyst | Educator
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;AI+ML+Specialist;Mobile+App+Developer;3+Years+Experience;Tech+Educator" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Full+Stack+Developer;AI+ML+Engineer;Mobile+App+Developer;Data+Analyst;3+Years+Experience;Tech+Educator" />
 </p>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=digitalrehman&label=Profile%20views&color=0e75b6&style=flat)
-  ![GitHub Followers](https://img.shields.io/github/followers/digitalrehman?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=digitalrehman&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/digitalrehman?label=Followers&style=social)
   
 </div>
 
@@ -20,19 +21,17 @@
 
 <div align="center">
  
-  Currently working on **AI-Powered Applications and Enterprise Solutions**
-  
-  Enhancing skills in **Advanced Machine Learning & Deep Learning**
-  
-  Open to collaborate on **Innovative Open Source Projects**
-  
-  Seeking guidance on **Scalable System Architecture and Microservices**
-  
-  Available for discussions about **React, Node.js, Python, AI/ML, and software architecture**
-  
-  Contact: **abdulrehmanarain1018@gmail.com**
-  
-  Part-time educator with 3 years of experience in teaching programming and development
+Currently working on **AI-powered applications, enterprise systems, and scalable architectures**
+
+Improving expertise in **Machine Learning, Deep Learning, and Data Engineering**
+
+Open to collaborating on **innovative open-source and production-grade software**
+
+Available for discussions about **React, Node.js, Python, AI/ML, SQL, Data Analytics, and architecture**
+
+Part-time educator with 3 years of experience teaching programming, AI/ML, and development
+
+Contact: **abdulrehmanarain1018@gmail.com**
   
 </div>
 
@@ -45,6 +44,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -72,18 +72,32 @@
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### AI/ML & Data Science
+### AI, ML, and Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-### Data Analysis & Tools
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Data Analysis, BI Tools and Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### Tools Used in Data Analysis
+- Power BI Desktop
+- Tableau Public and Tableau Prep
+- Microsoft Excel (Advanced Formulas, Pivot Tables, Power Query)
+- SQL Workbench, PgAdmin, MySQL Workbench
+- Jupyter Notebook
+- Google Colab
+- Pandas Profiling
+- Matplotlib and Seaborn for reporting
+- Data cleaning and preprocessing tools
+- Data modeling and BI dashboards
 
 ### Animation & Styling
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
@@ -102,15 +116,17 @@
 
 ## Professional Experience
 
-With over 3 years of professional experience in software development, I have worked on diverse projects ranging from web applications to AI-powered solutions. My expertise spans across:
+With over 3 years of industry experience, I have contributed to a range of projects including enterprise applications, AI-driven systems, mobile applications, and data analytics workflows. My work focuses on clean architecture, performance, scalability, and meaningful impact.
 
-- Full Stack Web Development (MERN Stack, Next.js, Angular)
-- Mobile Application Development (React Native)
-- Artificial Intelligence and Machine Learning
-- Database Design and Management
-- System Architecture and Scalability
+Key areas:
+- Full Stack Web Development (MERN, Next.js, Angular)
+- Mobile App Development with React Native
+- Machine Learning and Deep Learning model development
+- Data analytics, visualization, and business intelligence dashboards
+- SQL databases, data pipelines, and ETL workflows
+- System architecture and optimization
 
-Additionally, I have been engaged in part-time teaching for 3 years, mentoring students in programming, web development, and AI/ML concepts, helping them build strong foundations in technology.
+I also have 3 years of part-time teaching experience, helping learners build strong foundations in programming, development, and AI.
 
 ## GitHub Analytics
 
@@ -123,15 +139,15 @@ Additionally, I have been engaged in part-time teaching for 3 years, mentoring s
 
 <div align="center">
   <a href="https://github.com/digitalrehman">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalrehman&theme=radical" alt="digitalrehman" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalrehman&theme=radical"/>
   </a>
 </div>
 
 ## Portfolio & Resume
 
-Explore my complete portfolio: [Portfolio Website](https://drehmanportfolio.netlify.app/)
+Portfolio: https://drehmanportfolio.netlify.app/
 
-View my professional resume: [Download Resume](https://drive.google.com/file/d/1DQ5_lz4lK5btFRBpm77W4bdyPlauxlM_/view?usp=drive_link)
+Resume: https://drive.google.com/file/d/1DQ5_lz4lK5btFRBpm77W4bdyPlauxlM_/view
 
 ## Professional Connections
 
@@ -153,9 +169,7 @@ View my professional resume: [Download Resume](https://drive.google.com/file/d/1
 ---
 
 <div align="center">
-  
-  "Transforming ideas into innovative digital solutions through code and creativity."
-  
-  Crafted by [Abdul Rehman](https://github.com/digitalrehman)
-  
+  "Transforming ideas into meaningful digital solutions."
+  <br/>
+  Crafted by Abdul Rehman
 </div>
