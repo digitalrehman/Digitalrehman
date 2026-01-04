@@ -70,7 +70,7 @@ Contact: **abdulrehmanarain1018@gmail.com**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native_(Android_%26_iOS)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### AI, ML, and Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -87,84 +87,17 @@ Contact: **abdulrehmanarain1018@gmail.com**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-#### Tools Used in Data Analysis
-- Power BI Desktop
-- Tableau Public and Tableau Prep
-- Microsoft Excel (Advanced Formulas, Pivot Tables, Power Query)
-- SQL Workbench, PgAdmin, MySQL Workbench
-- Jupyter Notebook
-- Google Colab
-- Pandas Profiling
-- Matplotlib and Seaborn for reporting
-- Data cleaning and preprocessing tools
-- Data modeling and BI dashboards
-
-### Animation & Styling
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-### State Management
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
 ## Professional Experience
-
-With over 3 years of industry experience, I have contributed to a range of projects including enterprise applications, AI-driven systems, mobile applications, and data analytics workflows. My work focuses on clean architecture, performance, scalability, and meaningful impact.
-
-Key areas:
-- Full Stack Web Development (MERN, Next.js, Angular)
-- Mobile App Development with React Native
-- Machine Learning and Deep Learning model development
-- Data analytics, visualization, and business intelligence dashboards
-- SQL databases, data pipelines, and ETL workflows
-- System architecture and optimization
-
-I also have 3 years of part-time teaching experience, helping learners build strong foundations in programming, development, and AI.
-
-## GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/digitalrehman">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=digitalrehman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalrehman&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/digitalrehman">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalrehman&theme=radical"/>
-  </a>
-</div>
+[unchanged]
 
 ## Portfolio & Resume
 
 Portfolio: https://drehmanportfolio.netlify.app/
 
-Resume: https://drive.google.com/file/d/1DQ5_lz4lK5btFRBpm77W4bdyPlauxlM_/view
+Resume: https://drive.google.com/file/d/1aiBI-aYl8mhMDXnk5rWd9nOGlTygvT4g/view
 
 ## Professional Connections
-
-<p align="center">
-  <a href="https://twitter.com/rehman_digital" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/rehmanarainoffical" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/rehmanofficial" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:abdulrehmanarain1018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[unchanged]
 
 ---
 
