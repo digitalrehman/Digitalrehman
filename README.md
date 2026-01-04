@@ -70,7 +70,7 @@ Contact: **abdulrehmanarain1018@gmail.com**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Mobile Development
-![React Native (Android & IOS)](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native_(Android_%26_iOS)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### AI, ML, and Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -131,7 +131,7 @@ I also have 3 years of part-time teaching experience, helping learners build str
 
 ## Portfolio & Resume
 
-Portfolio: https://drehmanportfolio.netlify.app/
+Portfolio: https://rehmanofficial.pages.dev/
 
 Resume: https://drive.google.com/file/d/1aiBI-aYl8mhMDXnk5rWd9nOGlTygvT4g/view
 
