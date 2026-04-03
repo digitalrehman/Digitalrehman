@@ -23,11 +23,11 @@
  
 Currently working on **AI-powered applications, enterprise systems, and scalable architectures**
 
-Improving expertise in **Machine Learning, Deep Learning, and Data Engineering**
+Improving expertise in **Machine Learning, Deep Learning, Generative AI, and Data Engineering**
 
 Open to collaborating on **innovative open-source and production-grade software**
 
-Available for discussions about **React, Node.js, Python, AI/ML, SQL, Data Analytics, and architecture**
+Available for discussions about **React, Node.js, Python, AI/ML, Generative AI, LangChain, Streamlit, Data Analytics, and architecture**
 
 Part-time educator with 3 years of experience teaching programming, AI/ML, and development
 
@@ -44,7 +44,8 @@ Contact: **abdulrehmanarain1018@gmail.com**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -61,6 +62,7 @@ Contact: **abdulrehmanarain1018@gmail.com**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -81,6 +83,8 @@ Contact: **abdulrehmanarain1018@gmail.com**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F8A70?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Data Analysis, BI Tools and Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -121,9 +125,9 @@ With over 3 years of industry experience, I have contributed to a range of proje
 Key areas:
 - Full Stack Web Development (MERN, Next.js, Angular)
 - Mobile App Development with React Native
-- Machine Learning and Deep Learning model development
+- Machine Learning, Deep Learning, and Generative AI model development
 - Data analytics, visualization, and business intelligence dashboards
-- SQL databases, data pipelines, and ETL workflows
+- Databases, data pipelines, and ETL workflows
 - System architecture and optimization
 
 I also have 3 years of part-time teaching experience, helping learners build strong foundations in programming, development, and AI.
