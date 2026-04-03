@@ -62,7 +62,6 @@ Contact: **abdulrehmanarain1018@gmail.com**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -70,6 +69,7 @@ Contact: **abdulrehmanarain1018@gmail.com**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native_(Android_%26_iOS)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -132,7 +132,6 @@ Key areas:
 
 I also have 3 years of part-time teaching experience, helping learners build strong foundations in programming, development, and AI.
 
-
 ## Portfolio & Resume
 
 Portfolio: https://rehmanofficial.pages.dev/
@@ -142,10 +141,10 @@ Resume: https://drive.google.com/file/d/1aiBI-aYl8mhMDXnk5rWd9nOGlTygvT4g/view
 ## Professional Connections
 
 <p align="center">
-  <a href="https://twitter.com/rehman_digital" target="_blank">
+  <a href="https://twitter.com/rehmanaraino" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/rehmanarainoffical" target="_blank">
+  <a href="https://www.linkedin.com/in/rehmanarainofficial/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/rehmanofficial" target="_blank">
